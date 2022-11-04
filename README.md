@@ -3,8 +3,9 @@
 A portfolio project created in flutter using riverpod.  Its features are listed below:
 - Home
 - Resume
-- Theme
 - Dark Theme Support
+- Showcase skills
+- Showcase social accounts
 
 
 ## CODEBASE
