@@ -42,6 +42,4 @@ build/app/outputs/apk/release/app-release.apk
 
 ## APPETIZE.IO LINK
 
-https://appetize.io/GIapp/asaqd6wny32g7uaf2fkjfwjery#� �h�n�g�_�2�n�d�_�t�a�s�k�
-�
-�
+https://appetize.io/app/asaqd6wny32g7uaf2fkjfwjery
