@@ -39,7 +39,7 @@ A minimalistic design of two screens, the home screen and the resume screen desi
 The major challenge faced was the responsiveness of both landscape and portrait modes and it was resolved by using an orientation builder to determine the layout of the phone and build the ui accordingly
 
 ## APP LINK
-build/app/outputs/apk/release/app-release.apk
+https://drive.google.com/file/d/1JndXINxbUJpmOmCqczV3iDQ8yx5HhikA/view?usp=share_link
 
 ## APPETIZE.IO LINK
 
